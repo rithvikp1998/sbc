@@ -1,4 +1,4 @@
-update=Wed Jan 18 16:00:06 2017
+update=Fri Jan 20 14:17:43 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=opendous
 LibName31=/home/rithvikp/Documents/library-master/SCH_SYMBOLS/IC - Memory
+LibName32=libraries/sbc
