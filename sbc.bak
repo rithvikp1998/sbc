@@ -767,9 +767,9 @@ F 3 "" H 2000 1680 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 Text Label 2000 1780 2    60   ~ 0
-USBDM
+USBD-
 Text Label 2000 1880 2    60   ~ 0
-USBDP
+USBD+
 $Comp
 L +5V #PWR011
 U 1 1 588531AF
@@ -1384,9 +1384,9 @@ F 3 "" H 5430 2130 60  0001 C CNN
 	-1   0    0    1   
 $EndComp
 Text Label 3530 2630 0    60   ~ 0
-USBDM
+USBD-
 Text Label 3530 2730 0    60   ~ 0
-USBDP
+USBD+
 $Comp
 L +5V #PWR043
 U 1 1 5886CAFF
